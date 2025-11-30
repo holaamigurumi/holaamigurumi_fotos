@@ -29,7 +29,7 @@
     "description": "La compañera perfecta. Incluye detalles increíbles como el pelo rizado gris y un plato de galletas tejido.",
     "image": "https://raw.githubusercontent.com/holaamigurumi/holaamigurumi_fotos/main/images/1764522820068.jpg",
     "inStock": true,
-    "isFeatured": false,
+    "isFeatured": true,
     "createdAt": 1764521491972
   },
   {
