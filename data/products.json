@@ -35,10 +35,10 @@
   {
     "id": "4",
     "title": "PapÃ¡ Noel Travieso",
-    "price": 48,
+    "price": 39.99,
     "category": "Navidad",
-    "description": "VersiÃ³n divertida de PapÃ¡ Noel bajando por la chimenea o con regalos desordenados. Pieza Ãºnica.",
-    "image": "https://images.unsplash.com/photo-1616422209520-205167664c12?q=80&w=1000&auto=format&fit=crop",
+    "description": "Versión divertida de Papa Noel bajando por la chimenea o con regalos desordenados. Pieza Única.",
+    "image": "https://raw.githubusercontent.com/holaamigurumi/holaamigurumi_fotos/main/images/1764522858353.jpg",
     "inStock": true,
     "isFeatured": true,
     "createdAt": 1764521490972
