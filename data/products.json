@@ -1,10 +1,10 @@
 [
   {
     "id": "1",
-    "title": "Gnomo NavideÃ±o",
-    "price": 49,
+    "title": "Gnomo Navideño (grande)",
+    "price": 49.99,
     "category": "Navidad",
-    "description": "Gnomo con gorro rojo texturizado y barba iluminada (LED segura). Perfecto para decorar rincones mÃ¡gicos.",
+    "description": "Gnomo con gorro rojo texturizado y nariz iluminada (LED segura). Perfecto para decorar rincones mágicos.",
     "image": "https://raw.githubusercontent.com/holaamigurumi/holaamigurumi_fotos/main/images/1764521644184.jpg",
     "inStock": true,
     "isFeatured": true,
