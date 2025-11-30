@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1",
+    "title": "Gnomo Navideño",
+    "price": 49,
+    "category": "Navidad",
+    "description": "Gnomo con gorro rojo texturizado y barba iluminada (LED segura). Perfecto para decorar rincones mágicos.",
+    "image": "https://raw.githubusercontent.com/holaamigurumi/holaamigurumi_fotos/main/images/1764521644184.jpg",
+    "inStock": true,
+    "isFeatured": true,
+    "createdAt": 1764521493972
+  },
+  {
+    "id": "2",
+    "title": "Papá Noel Clásico",
+    "price": 45,
+    "category": "Navidad",
+    "description": "Papá Noel estilo vintage con gafas de alambre y saco de regalos. Detalles bordados a mano en el traje.",
+    "image": "https://images.unsplash.com/photo-1515488042361-25f4682e3c07?q=80&w=1000&auto=format&fit=crop",
+    "inStock": true,
+    "isFeatured": true,
+    "createdAt": 1764521492972
+  },
+  {
+    "id": "3",
+    "title": "Abuelita Claus",
+    "price": 45,
+    "category": "Navidad",
+    "description": "La compañera perfecta. Incluye detalles increíbles como el pelo rizado gris y un plato de galletas tejido.",
+    "image": "https://images.unsplash.com/photo-1559438692-7f7243cb8d72?q=80&w=1000&auto=format&fit=crop",
+    "inStock": true,
+    "isFeatured": false,
+    "createdAt": 1764521491972
+  },
+  {
+    "id": "4",
+    "title": "Papá Noel Travieso",
+    "price": 48,
+    "category": "Navidad",
+    "description": "Versión divertida de Papá Noel bajando por la chimenea o con regalos desordenados. Pieza única.",
+    "image": "https://images.unsplash.com/photo-1616422209520-205167664c12?q=80&w=1000&auto=format&fit=crop",
+    "inStock": true,
+    "isFeatured": true,
+    "createdAt": 1764521490972
+  }
+]
