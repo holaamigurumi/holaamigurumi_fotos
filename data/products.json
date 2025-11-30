@@ -12,10 +12,10 @@
   },
   {
     "id": "2",
-    "title": "PapÃ¡ Noel ClÃ¡sico",
+    "title": "Papa Noel Clásico",
     "price": 39.99,
     "category": "Navidad",
-    "description": "PapÃ¡ Noel estilo vintage con gafas de alambre y saco de regalos. Detalles bordados a mano en el traje.",
+    "description": "Papa Noel estilo vintage con gafas de alambre y saco de regalos. Detalles bordados a mano en el traje.",
     "image": "https://raw.githubusercontent.com/holaamigurumi/holaamigurumi_fotos/main/images/1764521667558.jpg",
     "inStock": true,
     "isFeatured": true,
