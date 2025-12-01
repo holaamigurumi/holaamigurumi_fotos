@@ -1,48 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://holaamigurumi.com/</loc>
+    <lastmod>2025-12-01T11:09:31.421Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://holaamigurumi.com/#/shop</loc>
+    <loc>https://holaamigurumi.com/shop</loc>
+    <lastmod>2025-12-01T11:09:31.421Z</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://holaamigurumi.com/#/custom</loc>
-    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://holaamigurumi.com/#/product/1764585085471</loc>
-    <lastmod>2025-12-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://raw.githubusercontent.com/holaamigurumi/holaamigurumi_fotos/main/images/muneco-de-nieve-amigurumi-edicion-navidena-1764585084034.jpg</image:loc>
-      <image:title>Muñeco de Nieve Amigurumi – Edición Navideña</image:title>
-    </image:image>
+    <loc>https://holaamigurumi.com/custom</loc>
+    <lastmod>2025-12-01T11:09:31.421Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://holaamigurumi.com/#/product/1764584975714</loc>
-    <lastmod>2025-12-01</lastmod>
+    <loc>https://holaamigurumi.com/product/1764587370461</loc>
+    <lastmod>2025-12-01T11:09:30.461Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://raw.githubusercontent.com/holaamigurumi/holaamigurumi_fotos/main/images/bola-de-navidad-amigurumi-reno-1764584973661.jpg</image:loc>
-      <image:title>Bola de Navidad Amigurumi – Reno</image:title>
-    </image:image>
   </url>
   <url>
-    <loc>https://holaamigurumi.com/#/product/1764584889156</loc>
-    <lastmod>2025-12-01</lastmod>
+    <loc>https://holaamigurumi.com/product/1764585085471</loc>
+    <lastmod>2025-12-01T10:31:25.471Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://raw.githubusercontent.com/holaamigurumi/holaamigurumi_fotos/main/images/bola-de-navidad-amigurumi-grinch-1764584887637.jpg</image:loc>
-      <image:title>Bola de Navidad Amigurumi – Grinch</image:title>
-    </image:image>
+  </url>
+  <url>
+    <loc>https://holaamigurumi.com/product/1764584975714</loc>
+    <lastmod>2025-12-01T10:29:35.714Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://holaamigurumi.com/product/1764584889156</loc>
+    <lastmod>2025-12-01T10:28:09.156Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
 </urlset>
