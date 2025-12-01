@@ -2,21 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://holaamigurumi.com/</loc>
-    <lastmod>2025-12-01T15:42:05.411Z</lastmod>
+    <lastmod>2025-12-01T15:46:54.749Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://holaamigurumi.com/shop</loc>
-    <lastmod>2025-12-01T15:42:05.411Z</lastmod>
+    <lastmod>2025-12-01T15:46:54.749Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://holaamigurumi.com/custom</loc>
-    <lastmod>2025-12-01T15:42:05.411Z</lastmod>
+    <lastmod>2025-12-01T15:46:54.749Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://holaamigurumi.com/product/1764604013633</loc>
+    <lastmod>2025-12-01T15:46:53.633Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://holaamigurumi.com/product/1764603724033</loc>
