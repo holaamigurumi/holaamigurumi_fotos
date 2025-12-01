@@ -15,4 +15,34 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://holaamigurumi.com/#/product/1764585085471</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/holaamigurumi/holaamigurumi_fotos/main/images/muneco-de-nieve-amigurumi-edicion-navidena-1764585084034.jpg</image:loc>
+      <image:title>Muñeco de Nieve Amigurumi – Edición Navideña</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://holaamigurumi.com/#/product/1764584975714</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/holaamigurumi/holaamigurumi_fotos/main/images/bola-de-navidad-amigurumi-reno-1764584973661.jpg</image:loc>
+      <image:title>Bola de Navidad Amigurumi – Reno</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://holaamigurumi.com/#/product/1764584889156</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/holaamigurumi/holaamigurumi_fotos/main/images/bola-de-navidad-amigurumi-grinch-1764584887637.jpg</image:loc>
+      <image:title>Bola de Navidad Amigurumi – Grinch</image:title>
+    </image:image>
+  </url>
 </urlset>
