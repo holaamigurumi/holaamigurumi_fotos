@@ -16,16 +16,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://holaamigurumi.com/#/product/1</loc>
-    <lastmod>2025-12-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://raw.githubusercontent.com/holaamigurumi/holaamigurumi_fotos/main/images/1764521644184.jpg</image:loc>
-      <image:title>Gnomo NavideÃ±o (grande)</image:title>
-    </image:image>
-  </url>
-  <url>
     <loc>https://holaamigurumi.com/#/product/2</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>weekly</changefreq>
